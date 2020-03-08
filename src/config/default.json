@@ -1,0 +1,15 @@
+{
+    "env": "development",
+    "api": {
+        "port": 3000
+    },
+    "db": {
+        "host": "",
+        "port": "",
+        "dbname": "",
+        "password": "",
+        "username": ""
+    },
+    "DEBUG": "challengeone:*",
+    "cookieSecret": "random"
+}

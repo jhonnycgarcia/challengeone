@@ -1,0 +1,14 @@
+{
+    "apiServe": {
+        "PORT": ""
+    },
+    "dbServer": {
+        "host": "",
+        "port": "",
+        "dbname": "",
+        "username": "",
+        "password": ""
+    },
+    "DEBUG": "challengeone:*",
+    "COOKIE_SECRET": "random"
+}
